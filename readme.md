@@ -79,7 +79,7 @@
 
 ## Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB
 
-[Go to Site](ttps://todo-fauna-sheharyar.netlify.app)<br/>
+[Go to Site](https://todo-fauna-sheharyar.netlify.app)<br/>
 [Github Repository](https://github.com/SheharyarAnwar/todo-app-gatsby-fauna-graphql)<br/>
 
 ## Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
